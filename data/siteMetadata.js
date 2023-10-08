@@ -14,9 +14,10 @@ const siteMetadata = {
   email: 'cguanghao150@gmail.com',
   github: 'https://github.com',
   twitter: 'https://twitter.com/ReturnTmp',
-  facebook: 'https://facebook.com',
   youtube: 'https://www.youtube.com/@ReturnTmp',
-  linkedin: 'https://www.linkedin.com',
+  zhihu: 'https://www.zhihu.com/people/king-niu-niu',
+  juejin: 'https://juejin.cn/user/602973172145479',
+  bilibili: 'https://space.bilibili.com/313482002',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
@@ -42,7 +43,7 @@ const siteMetadata = {
     // Please add your .env file and modify it according to your selection
     provider: 'buttondown',
   },
-  comments: {
+  /*   comments: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
     // Select a provider and use the environment variables associated to it
@@ -71,7 +72,7 @@ const siteMetadata = {
       // This corresponds to the `data-lang="en"` in giscus's configurations
       lang: 'en',
     },
-  },
+  }, */
   search: {
     provider: 'kbar', // kbar or algolia
     kbarConfig: {

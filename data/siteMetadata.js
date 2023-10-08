@@ -1,21 +1,21 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
+  title: "ReturnTmp's Blog",
+  author: 'Harvey Cheng',
+  headerTitle: '',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteRepo: 'https://github.com/ReturnTmp/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
   mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'address@yoursite.com',
+  email: 'cguanghao150@gmail.com',
   github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
+  twitter: 'https://twitter.com/ReturnTmp',
   facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
+  youtube: 'https://www.youtube.com/@ReturnTmp',
   linkedin: 'https://www.linkedin.com',
   locale: 'en-US',
   analytics: {
